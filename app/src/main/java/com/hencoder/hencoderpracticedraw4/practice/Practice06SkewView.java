@@ -40,5 +40,6 @@ public class Practice06SkewView extends View {
 
         canvas.drawBitmap(bitmap, point1.x, point1.y, paint);
         canvas.drawBitmap(bitmap, point2.x, point2.y, paint);
+        // 没啥用，略过
     }
 }
